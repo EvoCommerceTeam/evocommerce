@@ -1,0 +1,3 @@
+evo_routing:
+  resource: .
+  type: evo_auto

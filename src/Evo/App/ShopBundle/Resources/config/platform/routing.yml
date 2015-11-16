@@ -1,0 +1,4 @@
+evo_shop:
+  resource: "@EvoAppShopBundle/Controller"
+  type: annotation
+  prefix: /shop
